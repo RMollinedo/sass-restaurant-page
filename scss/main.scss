@@ -1,0 +1,10 @@
+@import "base";
+@import "layout";
+@import "components";
+
+// importing core styling file
+@import "./fontawesome/fontawesome.scss";
+
+// our project needs Solid + Brands
+@import "./fontawesome/solid.scss";
+@import "./fontawesome/brands.scss";
