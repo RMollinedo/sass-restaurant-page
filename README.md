@@ -13,4 +13,4 @@ Main page (welcome)
 ![alt text](https://github.com/RMollinedo/sass-restaurant-page/blob/main/screenshot1.png)
 
 Main page (food names and prices)
-![alt text](https://github.com/RMollinedo/sass-restaurant-page/blob/main/screenshot1.png)
+![alt text](https://github.com/RMollinedo/sass-restaurant-page/blob/main/screenshot2.png)
